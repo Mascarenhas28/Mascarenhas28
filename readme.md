@@ -13,5 +13,13 @@
 <div>
   <img align="center" alt="Jonatha-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
+<br>
+
+
+ ![Jonatha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mascarenhas28&show_icons=true&theme=radical)
+ ![Jonatha](https://github-readme-stats.vercel.app/api/top-langs/?username=Mascarenhas28&hide_progress=truelayout=compact&langs_count=16&theme=radical)
+
 
 ## 
+
+
