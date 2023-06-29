@@ -11,14 +11,15 @@
 - 📫 mailbox How to reach me: Jonatha.mascarenha@hotmail.com
 
 <div>
-  <img align="center" alt="Jonatha-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 <br>
 
 
  ![Jonatha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mascarenhas28&show_icons=true&theme=radical)
  ![Jonatha](https://github-readme-stats.vercel.app/api/top-langs/?username=Mascarenhas28&hide_progress=truelayout=compact&langs_count=16&theme=radical)
-
 
 ## 
 
