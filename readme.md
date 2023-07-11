@@ -6,7 +6,7 @@
 - 🏢 Studying Systems Analysis and Development and Software Engineer (Full Stack)
 - 🏢 I'm studying English using the Act Junior Silveira method
 - 🧰 I build with: `HTML5`
-- 🌱 I’m currently learning `JavaScript`, `TypeScript`, `Git GitHub`, `BootStrap`, `React`, `NodeJs`, `MongoDB`...
+- 🌱 I’m currently learning `JavaScript`, `TypeScript`, `BootStrap`, `React`, `NodeJs`, `MongoDB`...
 - ⚡ I enjoy reading, play video game, and lifting weights :)
 - 📫 mailbox How to reach me: Jonatha.mascarenha@hotmail.com
 
